@@ -14,6 +14,6 @@ This is a git repository for the Course project of the Getting and Cleaning Data
 
 * Put the script in the same folder.
 
-* The setting of the working directory is already done in the script, so don't mind to forget.
+* The setting of the working directory is already done in the script, so don't mind if you forget.
 
 * You can import the data to watch it, using: data <- read.table("data_set_with_the_averages.txt").
